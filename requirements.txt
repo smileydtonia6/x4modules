@@ -1,1 +1,49 @@
+# Dependencias principales para Comcast Checker Pro
+# Interfaz gráfica
+customtkinter>=5.2.0
+pillow>=10.0.0
 
+# Networking y proxies
+requests>=2.31.0
+pysocks>=1.7.1
+urllib3>=2.0.0
+
+# Procesamiento de datos
+lxml>=4.9.0
+beautifulsoup4>=4.12.0
+
+# Manejo de archivos
+openpyxl>=3.1.0
+pandas>=2.0.0
+
+# Utilidades
+python-dateutil>=2.8.0
+psutil>=5.9.0
+
+# Dependencias opcionales para funcionalidades avanzadas
+# Análisis de datos avanzado
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Exportación mejorada
+reportlab>=4.0.0
+xlsxwriter>=3.1.0
+
+# Compresión y archivos
+zipfile38>=0.0.3
+rarfile>=4.0
+
+# Notificaciones
+plyer>=2.1.0
+win10toast>=0.9
+
+# Proxy testing avanzado
+stem>=1.8.0
+aiohttp>=3.8.0
+
+# Base de datos opcional
+sqlite3
+
+# Monitoreo de rendimiento
+memory-profiler>=0.61.0
